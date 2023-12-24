@@ -24,6 +24,7 @@ By the end of this assignment:
 - I have developed practical skills in PyTorch, enhancing my ability to implement and manipulate deep learning models.
 - I have produced a set of experiments and visualizations that demonstrate the capabilities and characteristics of VAEs.
 
+<img src="images/fig1.png" width="500"/>
 
 # Task 2: Generative Adversarial Networks (GAN)
 
@@ -55,3 +56,5 @@ In addition to the coding implementation, the assignment included answering theo
 #### Conclusion
 
 This project was a comprehensive exercise in understanding and implementing Generative Adversarial Networks. It not only enhanced my practical skills in coding advanced neural network architectures but also deepened my theoretical knowledge in the field of deep learning. The completed code along with detailed comments is available in this repository, serving as a reference for anyone interested in GANs and their implementation using the CIFAR-10 dataset.
+
+<img src="images/fig2.png"/>
